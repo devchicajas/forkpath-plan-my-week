@@ -19,6 +19,12 @@ seven days of meals plus a categorized grocery list and a prep schedule.
 - **Family mode** *(coming soon)* — different preferences per eater
 - **Grocery list** — categorized by store section, shareable in a tap
 
+## Roadmap
+
+- **Family mode** — shared meal plans and grocery lists for households (Q1 2026)
+- **Vacation pause** — pause billing when you're away from the kitchen
+- **Hard allergy filters** — strict exclusion of allergens from all suggestions
+
 ## Tech stack
 
 - TanStack Start (React 19, Vite 7)
